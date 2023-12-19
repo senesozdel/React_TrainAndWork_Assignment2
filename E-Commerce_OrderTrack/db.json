@@ -1,0 +1,346 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Lighting Lamp",
+      "slug": "lighting-lamp",
+      "description": "Description for Lighting Lamp",
+      "categoryId": 3,
+      "images": [
+        "/assets/img/products/product-9-1-270x360.jpg",
+        "/assets/img/products/product-9-2-270x360.jpg"
+      ],
+      "thumbnail": "/assets/img/products/product-1-90x100.jpg",
+      "iswish": false,
+      "rate": 2,
+      "price": 100,
+      "oldPrice": 64
+    },
+    {
+      "id": 2,
+      "name": "Jane Lauren Design Chair",
+      "slug": "jane-lauren-design-chair",
+      "description": "Description for Jane Lauren Design Chair",
+      "categoryId": 3,
+      "images": [
+        "/assets/img/products/product-10-1-270x360.jpg"
+      ],
+      "thumbnail": "/assets/img/products/product-2-90x100.jpg",
+      "iswish": false,
+      "rate": 2,
+      "price": 100,
+      "oldPrice": 64
+    },
+    {
+      "id": 3,
+      "name": "Jane Lauren Gregory Chair",
+      "slug": "jane-lauren-gregory-chair",
+      "description": "Description for Jane Lauren Gregory Chair",
+      "categoryId": 3,
+      "images": [
+        "/assets/img/products/product-11-1-270x360.jpg",
+        "/assets/img/products/product-11-2-270x360.jpg"
+      ],
+      "thumbnail": "/assets/img/products/product-3-100x100.jpg",
+      "iswish": false,
+      "rate": 2,
+      "price": 100,
+      "oldPrice": 64
+    },
+    {
+      "id": 4,
+      "name": "Candice Desk Lamp",
+      "slug": "candice-desk-lamp",
+      "description": "Description for Candice Desk Lamp",
+      "categoryId": 3,
+      "images": [
+        "/assets/img/products/product-12-1-270x360.jpg",
+        "/assets/img/products/product-12-2-270x360.jpg"
+      ],
+      "thumbnail": "/assets/img/products/product-4-100x100.jpg",
+      "iswish": false,
+      "rate": 2,
+      "price": 100,
+      "oldPrice": 64
+    },
+    {
+      "id": 5,
+      "name": "Ovora Step stool",
+      "slug": "ovora-step-stool",
+      "description": "Description for Ovora Step stool",
+      "categoryId": 1,
+      "images": [
+        "/assets/img/products/product-13-1-270x360.jpg",
+        "/assets/img/products/product-13-2-270x360.jpg"
+      ],
+      "thumbnail": "/assets/img/products/product-5-100x100.jpg",
+      "iswish": false,
+      "rate": 3,
+      "price": 140,
+      "oldPrice": 185
+    },
+    {
+      "id": 6,
+      "name": "Jane Lauren Carson Chair",
+      "slug": "jane-lauren-carson-chair",
+      "description": "Description for Jane Lauren Carson Chair",
+      "categoryId": 2,
+      "images": [
+        "/assets/img/products/product-14-1-270x360.jpg",
+        "/assets/img/products/product-14-2-270x360.jpg"
+      ],
+      "thumbnail": "/assets/img/products/product-6-100x100.jpg",
+      "iswish": false,
+      "rate": 2,
+      "price": 145,
+      "oldPrice": 64
+    },
+    {
+      "id": 7,
+      "name": "Alexa Classic Towels",
+      "slug": "alexa-classic-towels",
+      "description": "Description for Alexa Classic Towels",
+      "iswish": false,
+      "price": 11,
+      "categoryId": 2,
+      "rate": 5,
+      "oldPrice": 14,
+      "images": [
+        "/assets/img/products/product-15-1-270x360.jpg",
+        "/assets/img/products/product-15-2-270x360.jpg"
+      ],
+      "thumbnail": "/assets/img/products/product-7-100x100.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Olivia Shayn Cover Chair",
+      "slug": "olivia-shayn-cover-chair",
+      "description": "Description for Olivia Shayn Cover Chair",
+      "category": "New Arrivals",
+      "iswish": false,
+      "price": 98,
+      "categoryId": 1,
+      "rate": 1,
+      "oldPrice": 64,
+      "images": [
+        "/assets/img/products/product-16-1-270x360.jpg",
+        "/assets/img/products/product-16-2-270x360.jpg"
+      ],
+      "thumbnail": "/assets/img/products/product-8-100x100.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Juliet Rowley Sofa Remix Fabric",
+      "slug": "juliet-rowley-sofa-remix-fabric",
+      "description": "Description for Juliet Rowley Sofa Remix Fabric",
+      "iswish": false,
+      "price": 98,
+      "categoryId": 2,
+      "rate": 2,
+      "oldPrice": 35,
+      "images": [
+        "/assets/img/products/product-17-1-270x360.jpg",
+        "/assets/img/products/product-17-2-270x360.jpg"
+      ],
+      "thumbnail": "/assets/img/products/product-3-100x100.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Candice Copenhagen Stage Floor Lamp EU",
+      "slug": "candice-copenhagen-stage-floor-lamp-eu",
+      "description": "Description for Candice Copenhagen Stage Floor Lamp EU",
+      "iswish": false,
+      "price": 98,
+      "categoryId": 3,
+      "rate": 3,
+      "oldPrice": 35,
+      "images": [
+        "/assets/img/products/product-18-1-270x360.jpg",
+        "/assets/img/products/product-18-2-270x360.jpg"
+      ],
+      "thumbnail": "/assets/img/products/product-3-100x100.jpg"
+    }
+  ],
+  "orders": [
+    {
+      "id": "rcef4y0kflqcsufs2",
+      "Address": {
+        "firstName": "Enes",
+        "lastName": "Ozdel",
+        "email": "enes@gmail.com",
+        "phone": "1111",
+        "company": "",
+        "address1": "",
+        "address2": "",
+        "country": "",
+        "city": "Eskisehir",
+        "zipCode": "111"
+      },
+      "products": [
+        {
+          "product": {
+            "id": 2,
+            "name": "Jane Lauren Design Chair",
+            "slug": "jane-lauren-design-chair",
+            "description": "Description for Jane Lauren Design Chair",
+            "categoryId": 3,
+            "images": [
+              "/assets/img/products/product-10-1-270x360.jpg"
+            ],
+            "thumbnail": "/assets/img/products/product-2-90x100.jpg",
+            "iswish": false,
+            "rate": 2,
+            "price": 100,
+            "oldPrice": 64
+          },
+          "quantity": 1,
+          "Id": 1,
+          "totalPrice": 100
+        }
+      ],
+      "paymentMethod": "check"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "name": "The Difference Between Green Furniture and Sustainable Furniture",
+      "slug": "green-furniture-vs-sustainable-furniture",
+      "user": "admin",
+      "date": "January 21, 2019",
+      "image": "/assets/img/blog/slider/one-1170x770.jpg",
+      "description": "Many furniture companies claim their products are “green,” a designation usually referring to material sourcing. Maybe their sofa frames are made out of dumpster-sourced scrap metal or their cushions are…"
+    },
+    {
+      "id": 2,
+      "name": "Choosing Eco-Friendly Materials for Your Home Furniture",
+      "slug": "eco-friendly-materials-for-home-furniture",
+      "user": "admin",
+      "date": "March 15, 2019",
+      "image": "/assets/img/blog/slider/two-1170x770.jpg",
+      "description": "As environmental concerns continue to rise, choosing eco-friendly materials for your home furniture becomes increasingly important. Learn about sustainable options that reduce your carbon footprint."
+    },
+    {
+      "id": 3,
+      "name": "Tips for Creating a Green Office Space",
+      "slug": "tips-for-creating-green-office-space",
+      "user": "admin",
+      "date": "May 7, 2019",
+      "image": "/assets/img/blog/slider/six-1170x770.jpg",
+      "description": "Transform your office into an eco-friendly space with these tips. From energy-efficient lighting to recycled furniture, discover ways to create a green and sustainable office environment."
+    },
+    {
+      "id": 4,
+      "name": "Exploring Upcycling: Giving Old Furniture New Life",
+      "slug": "exploring-upcycling-giving-old-furniture-new-life",
+      "user": "admin",
+      "date": "July 12, 2019",
+      "image": "/assets/img/blog/slider/five-1170x770.jpg",
+      "description": "Discover the art of upcycling and learn how to breathe new life into old furniture. With a creative touch, you can repurpose and revitalize items to contribute to a more sustainable lifestyle."
+    },
+    {
+      "id": 5,
+      "name": "The Impact of Fast Furniture on the Environment",
+      "slug": "impact-of-fast-furniture-on-environment",
+      "user": "admin",
+      "date": "September 30, 2019",
+      "image": "/assets/img/blog/slider/five-1170x770.jpg",
+      "description": "Fast furniture, known for its affordability and quick production, has significant environmental implications. Explore the impact of fast furniture on the environment and consider sustainable alternatives."
+    },
+    {
+      "id": 6,
+      "name": "Creating a Sustainable Home: Simple Changes for a Greener Lifestyle",
+      "slug": "creating-sustainable-home-simple-changes-for-greener-lifestyle",
+      "user": "admin",
+      "date": "November 18, 2019",
+      "image": "/assets/img/blog/slider/six-1170x770.jpg",
+      "description": "Make your home more sustainable with simple changes. From energy-efficient appliances to eco-friendly decor, discover practical tips for creating a greener and more environmentally conscious living space."
+    }
+  ],
+  "comments": [
+    {
+      "blogId": 1,
+      "username": "user1",
+      "email": "user1@example.com",
+      "date": "January 21, 2019",
+      "content": "Furniture companies claim their products are 'green,' a designation."
+    },
+    {
+      "blogId": 1,
+      "username": "user2",
+      "email": "user2@example.com",
+      "date": "January 22, 2019",
+      "content": "Furniture companies claim their products are 'green,' a designation."
+    },
+    {
+      "blogId": 1,
+      "username": "user3",
+      "email": "user3@example.com",
+      "date": "January 23, 2019",
+      "content": "Furniture companies claim their products are 'green,' a designation."
+    },
+    {
+      "blogId": 2,
+      "username": "user1",
+      "email": "user1@example.com",
+      "date": "January 21, 2019",
+      "content": "Furniture companies claim their products are 'red,' a designation."
+    },
+    {
+      "blogId": 2,
+      "username": "user2",
+      "email": "user2@example.com",
+      "date": "January 22, 2019",
+      "content": "Furniture companies claim their products are 'red,' a designation."
+    },
+    {
+      "blogId": 2,
+      "username": "user3",
+      "email": "user3@example.com",
+      "date": "January 23, 2019",
+      "content": "Furniture companies claim their products are 'red,' a designation."
+    },
+    {
+      "blogId": 3,
+      "username": "user1",
+      "email": "user1@example.com",
+      "date": "January 21, 2019",
+      "content": "Furniture companies claim their products are 'green,' a designation."
+    },
+    {
+      "blogId": 3,
+      "username": "user2",
+      "email": "user2@example.com",
+      "date": "January 22, 2019",
+      "content": "Furniture companies claim their products are 'green,' a designation."
+    },
+    {
+      "blogId": 4,
+      "username": "user3",
+      "email": "user3@example.com",
+      "date": "January 23, 2019",
+      "content": "Furniture companies claim their products are 'green,' a designation."
+    },
+    {
+      "blogId": 5,
+      "username": "user1",
+      "email": "user1@example.com",
+      "date": "January 21, 2019",
+      "content": "Furniture companies claim their products are 'green,' a designation."
+    },
+    {
+      "blogId": 6,
+      "username": "user2",
+      "email": "user2@example.com",
+      "date": "January 22, 2019",
+      "content": "Furniture companies claim their products are 'green,' a designation."
+    },
+    {
+      "blogId": 6,
+      "username": "user3",
+      "email": "user3@example.com",
+      "date": "January 23, 2019",
+      "content": "Furniture companies claim their products are 'green,' a designation."
+    }
+  ]
+}
